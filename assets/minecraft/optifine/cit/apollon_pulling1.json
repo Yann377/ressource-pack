@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "optifine/cit/apollon_pulling_1"
+	}
+}
